@@ -1,0 +1,12 @@
+{
+    "require": {
+        "silex/silex": "^2.0",
+        "foil/foil": "^0.6.6",
+        "symfony/asset": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
