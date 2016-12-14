@@ -39,6 +39,10 @@
         <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '6'])?>">
             <div class="cloud-6"><span>Разработка урока для 10 класса по теме “Профессии”</span></div>
         </a>
+
+        <a href="/web-quest/" target="_blank">
+            <div class="cloud-1"><span>WebQuest</span></div>
+        </a>
     </div>
 </div>
 
