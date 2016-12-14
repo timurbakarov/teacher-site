@@ -3,10 +3,9 @@
 <head>
     <title>Сайт преподавателя английского языка Сендеровой Дианы</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Сайт преподавателя английского языка Дарьи Масловской. " />
+    <meta name="description" content="Сайт преподавателя английского языка Сендеровой Дианы" />
     <meta name="keywords" content="сайт преподавателя английского языка" />
     <link href="<?=$this->asset->getUrl('css/app.css')?>" rel="stylesheet" type="text/css" />
-
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 
     <!-- Add fancyBox -->
@@ -41,8 +40,8 @@
     </div>
     <div id="menutop">
         <a href="http://elementary-english.ru/" target="_blank"><img src="<?=$this->asset->getUrl('img/img-razgovor.jpg')?>" />Начальная<br>школа</a>
-        <a href="/ielts"><img src="<?=$this->asset->getUrl('img/img-ielts.jpg')?>" />Средняя<br>школа</a>
-        <a href="/travel"><img src="<?=$this->asset->getUrl('img/img-biznes.jpg')?>" />Старшая<br>школа</a>
+        <a href="http://list-english.ru/nagl.html" target="_blank"><img src="<?=$this->asset->getUrl('img/img-ielts.jpg')?>" />Средняя<br>школа</a>
+        <a href="http://4ege.ru/video-angliyskiy/" target="_blank"><img src="<?=$this->asset->getUrl('img/img-biznes.jpg')?>" />Старшая<br>школа</a>
     </div>
 
     <div class="body_content">

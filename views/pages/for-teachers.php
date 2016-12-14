@@ -9,35 +9,34 @@
     </h1>
 
     <div class="clouds">
-        <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '1'])?>" target="_blank">
-            <div class="cloud-1"><span>Разработка урока для 1 класса по теме “Игрушки”
-</span></div>
+        <a href="<?=$this->url->path('subpage', ['page' => 'for-teachers', 'subpage' => '1'])?>">
+            <div class="cloud-1"><span>План урока: идиомы с say, tell, speak, talk</span></div>
         </a>
 
 
-        <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '2'])?>" target="_blank">
-            <div class="cloud-2"><span>Статья “Игровые упражнения”</span></div>
+        <a href="<?=$this->url->path('subpage', ['page' => 'for-teachers', 'subpage' => '2'])?>">
+            <div class="cloud-2"><span>EF Elementary Unit 5A - Verb phrases</span></div>
         </a>
 
 
-        <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '3'])?>" target="_blank">
-            <div class="cloud-3"><span>Разработка урока для 6 класса по теме “Лондон”</span></div>
+        <a href="<?=$this->url->path('subpage', ['page' => 'for-teachers', 'subpage' => '3'])?>">
+            <div class="cloud-3"><span>План урока: тема Personality</span></div>
         </a>
     </div>
 
     <div class="clouds">
-        <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '4'])?>" target="_blank">
-            <div class="cloud-4"><span>Разработка урока для 3 класса по теме “Мои друзья”</span></div>
+        <a href="<?=$this->url->path('subpage', ['page' => 'for-teachers', 'subpage' => '4'])?>">
+            <div class="cloud-4"><span>План урока: тема Travelling / тема London</span></div>
         </a>
 
 
-        <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '5'])?>" target="_blank">
-            <div class="cloud-5"><span>Технологическая карта урока для 3 класса по теме “Мои друзья”</span></div>
+        <a href="<?=$this->url->path('subpage', ['page' => 'for-teachers', 'subpage' => '5'])?>">
+            <div class="cloud-5"><span>Jazz Chants: Are you a student?</span></div>
         </a>
 
 
-        <a href="<?=$this->url->path('subpage', ['page' => 'activity', 'subpage' => '6'])?>" target="_blank">
-            <div class="cloud-6"><span>Разработка урока для 10 класса по теме “Профессии”</span></div>
+        <a href="<?=$this->url->path('subpage', ['page' => 'for-teachers', 'subpage' => '6'])?>">
+            <div class="cloud-6"><span>EF Elementary Unit 3A - Verb phrases</span></div>
         </a>
     </div>
 </div>
