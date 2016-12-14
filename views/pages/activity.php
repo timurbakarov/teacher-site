@@ -41,7 +41,7 @@
         </a>
 
         <a href="/web-quest/" target="_blank">
-            <div class="cloud-1"><span>Find a job</span></div>
+            <div class="cloud-1"><span>WebQuest<br />Find a job</span></div>
         </a>
     </div>
 </div>
